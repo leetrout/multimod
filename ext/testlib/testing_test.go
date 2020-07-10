@@ -1,4 +1,4 @@
-package foo_test
+package testlib_test
 
 import (
 	"testing"
